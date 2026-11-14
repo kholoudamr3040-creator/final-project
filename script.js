@@ -8,7 +8,7 @@ var destinations = [
     food: "Croissant, Macarons",
     place: "Eiffel Tower",
     language: "French",
-    image: "ctfassets.net/zeaejvyq9bhj/5LxBxZvXsYaDBQBzlnyQw4/a190f6e010d50de47216980ea05ab407/French_4.PNG",
+    image: "French_4.PNG",
     more: "Walk along the Seine, visit the Louvre and enjoy a coffee in a Montmartre cafe."
   },
   {
@@ -19,7 +19,7 @@ var destinations = [
     food: "Sushi, Ramen",
     place: "Tokyo Tower",
     language: "Japanese",
-    image: "tokyo.avif",
+    image: ".tokyo.avif",
     more: "Try the Tsukiji outer market for breakfast, then spend the evening in Shinjuku."
   },
   {
