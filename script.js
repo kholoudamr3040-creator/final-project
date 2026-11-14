@@ -8,7 +8,7 @@ var destinations = [
     food: "Croissant, Macarons",
     place: "Eiffel Tower",
     language: "French",
-    image: "French_4.PNG",
+    image: "france.png",
     more: "Walk along the Seine, visit the Louvre and enjoy a coffee in a Montmartre cafe."
   },
   {
@@ -19,7 +19,7 @@ var destinations = [
     food: "Sushi, Ramen",
     place: "Tokyo Tower",
     language: "Japanese",
-    image: ".tokyo.avif",
+    image: "tokyo.avif",
     more: "Try the Tsukiji outer market for breakfast, then spend the evening in Shinjuku."
   },
   {
@@ -30,7 +30,7 @@ var destinations = [
     food: "Koshari, Ful Medames",
     place: "Pyramids of Giza",
     language: "Arabic",
-    image: "giza-pyramids-cairo-egypt-with-palm-1024x634.webp",
+    image: "giza.webp",
     more: "Visit the Egyptian Museum, then take a felucca ride on the Nile at sunset."
   },
   {
@@ -41,7 +41,7 @@ var destinations = [
     food: "Pizza, Bagels",
     place: "Statue of Liberty",
     language: "English",
-    image: "Statue-of-Liberty-Upper-New-York-Bay.webp",
+    image: "usa.jpg",
     more: "Walk the Brooklyn Bridge at sunrise and relax in Central Park in the afternoon."
   }
 ];
